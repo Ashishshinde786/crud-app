@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Virat Kohali",
+      "username": "KingKohali18",
+      "email": "VirarKohali@gmail.com",
+      "phone": "1818181818",
+      "id": 2
+    },
+    {
+      "name": "Rohit Sharma",
+      "username": "Hitman45",
+      "email": "Rohitsharma@gmail.com",
+      "phone": "45454545",
+      "id": 3
+    },
+    {
+      "name": "Steve Smith",
+      "username": "Smith1010",
+      "email": "stevesmith@gmail.com",
+      "phone": "8526541745",
+      "id": 4
+    }
+  ]
+}
